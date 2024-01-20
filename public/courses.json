@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Introduction to Python Programming",
+      "instructor": "Aryan Sharma",
+      "description": "Learn the basics of Python programming language.",
+      "enrollmentStatus": "Open",
+      "progress": 50,
+      "duration": 6,
+      "schedule": "Monday and Wednesday, 6:00 PM - 8:00 PM",
+      "location": "Room 101",
+      "prerequisites": "None",
+      "syllabus": [
+        "Week 1: Python Basics",
+        "Week 2: Control Flow",
+        "Week 3: Functions",
+        "Week 4: Data Structures"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Web Development Fundamentals with HTML, CSS, and JavaScript",
+      "instructor": "Priya Patel",
+      "description": "Explore the fundamental concepts of web development using HTML, CSS, and JavaScript.",
+      "enrollmentStatus": "In Progress",
+      "progress": 75,
+      "duration": 5,
+      "schedule": "Tuesday and Thursday, 5:30 PM - 7:30 PM",
+      "location": "Room 102",
+      "prerequisites": "Basic understanding of HTML",
+      "syllabus": [
+        "Week 1: HTML Basics",
+        "Week 2: CSS Styling",
+        "Week 3: JavaScript Fundamentals",
+        "Week 4: Responsive Design"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Java Programming for Beginners",
+      "instructor": "Rajat Kapoor",
+      "description": "Get started with Java programming and learn the fundamentals.",
+      "enrollmentStatus": "Closed",
+      "progress": 40,
+      "duration": 4,
+      "schedule": "Monday and Wednesday, 7:00 PM - 9:00 PM",
+      "location": "Room 103",
+      "prerequisites": "None",
+      "syllabus": [
+        "Week 1: Java Basics",
+        "Week 2: Object-Oriented Programming",
+        "Week 3: Data Structures",
+        "Week 4: GUI Programming"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Machine Learning Essentials with Python",
+      "instructor": "Neha Gupta",
+      "description": "Explore essential concepts of machine learning using the Python programming language.",
+      "enrollmentStatus": "Open",
+      "progress": 60,
+      "duration": 8,
+      "schedule": "Tuesday and Thursday, 6:30 PM - 8:30 PM",
+      "location": "Room 104",
+      "prerequisites": "Basic Python knowledge",
+      "syllabus": [
+        "Week 1: Introduction to Machine Learning",
+        "Week 2: Supervised Learning",
+        "Week 3: Unsupervised Learning",
+        "Week 4: Model Evaluation"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Data Structures and Algorithms in C++",
+      "instructor": "Vikram Singh",
+      "description": "Learn data structures and algorithms using the C++ programming language.",
+      "enrollmentStatus": "Open",
+      "progress": 80,
+      "duration": 7,
+      "schedule": "Wednesday and Friday, 7:30 PM - 9:30 PM",
+      "location": "Room 105",
+      "prerequisites": "Basic C++ knowledge",
+      "syllabus": [
+        "Week 1: Arrays and Linked Lists",
+        "Week 2: Trees and Graphs",
+        "Week 3: Sorting Algorithms",
+        "Week 4: Dynamic Programming"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Android App Development with Kotlin",
+      "instructor": "Meera Verma",
+      "description": "Learn to develop Android applications using the Kotlin programming language.",
+      "enrollmentStatus": "In Progress",
+      "progress": 30,
+      "duration": 6,
+      "schedule": "Monday and Wednesday, 5:00 PM - 7:00 PM",
+      "location": "Room 106",
+      "prerequisites": "Basic programming knowledge",
+      "syllabus": [
+        "Week 1: Introduction to Android Development",
+        "Week 2: UI Design with Kotlin",
+        "Week 3: Working with Databases",
+        "Week 4: Publishing Apps to Google Play"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Full Stack Web Development with Node.js and React",
+      "instructor": "Aniket Sharma",
+      "description": "Become a full-stack web developer using Node.js and React.",
+      "enrollmentStatus": "Open",
+      "progress": 45,
+      "duration": 10,
+      "schedule": "Tuesday and Thursday, 7:00 PM - 9:00 PM",
+      "location": "Room 107",
+      "prerequisites": "Basic knowledge of JavaScript",
+      "syllabus": [
+        "Week 1: Introduction to Full Stack Development",
+        "Week 2: Building RESTful APIs with Node.js",
+        "Week 3: Frontend Development with React",
+        "Week 4: Deployment and Hosting"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Python for Data Science and Analysis",
+      "instructor": "Swati Saxena",
+      "description": "Explore data science and analysis using the Python programming language.",
+      "enrollmentStatus": "Closed",
+      "progress": 90,
+      "duration": 8,
+      "schedule": "Wednesday and Friday, 6:00 PM - 8:00 PM",
+      "location": "Room 108",
+      "prerequisites": "Basic Python knowledge",
+      "syllabus": [
+        "Week 1: Data Exploration and Cleaning",
+        "Week 2: Data Visualization with Matplotlib and Seaborn",
+        "Week 3: Machine Learning with scikit-learn",
+        "Week 4: Real-world Data Science Projects"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "C# Programming for Game Development",
+      "instructor": "Amit Dubey",
+      "description": "Learn C# programming for game development using Unity.",
+      "enrollmentStatus": "Open",
+      "progress": 55,
+      "duration": 7,
+      "schedule": "Monday and Wednesday, 5:30 PM - 7:30 PM",
+      "location": "Room 109",
+      "prerequisites": "Basic C# knowledge",
+      "syllabus": [
+        "Week 1: Introduction to Unity and C#",
+        "Week 2: Game Physics and Animation",
+        "Week 3: User Interface and Interaction",
+        "Week 4: Publishing Games"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Cybersecurity Fundamentals and Best Practices",
+      "instructor": "Aditi Kapoor",
+      "description": "Understand the fundamentals of cybersecurity and best practices to secure systems.",
+      "enrollmentStatus": "In Progress",
+      "progress": 70,
+      "duration": 6,
+      "schedule": "Tuesday and Thursday, 6:30 PM - 8:30 PM",
+      "location": "Room 110",
+      "prerequisites": "Basic understanding of computer networks",
+      "syllabus": [
+        "Week 1: Introduction to Cybersecurity",
+        "Week 2: Network Security",
+        "Week 3: Encryption and Cryptography",
+        "Week 4: Cybersecurity Best Practices"
+      ]
+    }
+  ]
+  
