@@ -11,14 +11,11 @@ const Footer = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Pixinvent
+         Mohit Madelwar
         </a>
         <span className="d-none d-sm-inline-block">, All rights Reserved</span>
       </span>
-      <span className="float-md-end d-none d-md-block">
-        Hand-crafted & Made with
-        <Heart size={14} />
-      </span>
+    
     </p>
   );
 };
